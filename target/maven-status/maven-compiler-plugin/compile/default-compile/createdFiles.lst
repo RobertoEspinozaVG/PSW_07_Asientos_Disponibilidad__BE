@@ -1,0 +1,17 @@
+com\eventpass\seats\dto\ReserveSeatRequest$ReserveSeatRequestBuilder.class
+com\eventpass\seats\model\Seat.class
+com\eventpass\seats\service\SeatService.class
+com\eventpass\seats\model\Seat$SeatBuilder.class
+com\eventpass\seats\dto\ReserveSeatRequest.class
+com\eventpass\seats\exception\GlobalExceptionHandler.class
+com\eventpass\seats\dto\AvailabilitySummaryDTO.class
+com\eventpass\seats\repository\SeatRepository.class
+com\eventpass\seats\dto\AvailabilitySummaryDTO$AvailabilitySummaryDTOBuilder.class
+com\eventpass\seats\exception\SeatAlreadyReservedException.class
+com\eventpass\seats\dto\SeatResponseDTO.class
+com\eventpass\seats\model\SeatZone.class
+com\eventpass\seats\model\SeatStatus.class
+com\eventpass\seats\dto\SeatResponseDTO$SeatResponseDTOBuilder.class
+com\eventpass\seats\exception\SeatNotFoundException.class
+com\eventpass\seats\controller\SeatController.class
+com\eventpass\seats\EventPassSeatsApplication.class

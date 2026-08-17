@@ -1,0 +1,13 @@
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\service\SeatService.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\dto\AvailabilitySummaryDTO.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\exception\SeatNotFoundException.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\model\SeatStatus.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\dto\SeatResponseDTO.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\exception\SeatAlreadyReservedException.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\EventPassSeatsApplication.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\repository\SeatRepository.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\dto\ReserveSeatRequest.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\model\Seat.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\controller\SeatController.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\exception\GlobalExceptionHandler.java
+C:\Users\XhaPP\Desktop\eventpass-backend\src\main\java\com\eventpass\seats\model\SeatZone.java
