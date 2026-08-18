@@ -2,15 +2,15 @@
 
 Proyecto Backend Spring Boot y Suite de Automatización para el módulo de **Disponibilidad de Asientos** de la plataforma **EventPass**.
 
----
+---   HUARIPAUCAR CARDENAS, Jesus Angelo
 
 ## 👥 Integrantes y Roles
 
 | Nombre Completo | Rol | Responsabilidad Principal |
 | :--- | :--- | :--- |
 | **ESPINOZA NOVOA, Roberto Carlos** | **QA LEAD** | Coordinación, gestión de documentación y entregables, arquitectura de pruebas. |
-| **HUARIPAUCAR CARDENAS, Jesus Angelo** | **QA TESTER** | Diseño y ejecución de casos de prueba manuales (CP-01 y CP-02), registro de evidencias. |
-| **REJAS CARRASCO, Keller Steven** | **QA AUTOMATION** | Desarrollo de la suite de automatización Spring Boot / MockMvc (CP-01 a CP-04), assertions y backend. |
+| **REJAS CARRASCO, Keller Steven** | **QA TESTER** | Diseño y ejecución de casos de prueba manuales (CP-01 y CP-02), registro de evidencias. |
+| **HUARIPAUCAR CARDENAS, Jesus Angelo** | **QA AUTOMATION** | Desarrollo de la suite de automatización Spring Boot / MockMvc (CP-01 a CP-04), assertions y backend. |
 | **VILCAPUMA TRUJILLO, Marilyn Angy** | **QA TESTER** | Diseño y ejecución de casos de prueba manuales (CP-03 y CP-04), reporte de defectos. |
 
 ---
