@@ -2,7 +2,7 @@
 
 Proyecto Backend Spring Boot y Suite de Automatización para el módulo de **Disponibilidad de Asientos** de la plataforma **EventPass**.
 
----   HUARIPAUCAR CARDENAS, Jesus Angelo
+---  
 
 ## 👥 Integrantes y Roles
 
