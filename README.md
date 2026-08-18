@@ -1,4 +1,4 @@
-# ##_DisponibilidadAsientos_Grupo07
+# 07_DisponibilidadAsientos_Grupo07
 
 Proyecto Backend Spring Boot y Suite de Automatización para el módulo de **Disponibilidad de Asientos** de la plataforma **EventPass**.
 
