@@ -21,7 +21,7 @@ Proyecto Backend Spring Boot y Suite de Automatización para el módulo de **Dis
 
 ---
 
-## 📝 Casos de Prueba Realizados (Manuales)
+## 📝 Casos de Prueba Realizados
 
 1. **CP-01 – Consulta de disponibilidad general y leyenda de estados**
    - **Precondición:** Evento con asientos registrados.
